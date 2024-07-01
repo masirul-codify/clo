@@ -1,9 +1,15 @@
 *{
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
-  font-size: 16px;
-  font-family:'Times New Roman', Times, serif
+  box-sizing: border-box; 
+}
+
+body{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 180%;
 }
 .table-chart,
 .table-graph{ 
@@ -72,6 +78,9 @@ tbody tr td i.fa-xmark {
 }
 .text-center{
   text-align: center;
+}
+.text-start{
+  text-align: start;
 }
 .bold-text{
   font-weight: 700;
