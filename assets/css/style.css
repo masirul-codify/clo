@@ -42,7 +42,7 @@ table {
   padding: 10px;
 }
 .table-wrapper{
-  padding: 30px;
+  padding: 5px;
 }
 thead {
   text-align: center;
@@ -77,8 +77,14 @@ tbody tr td i.fa-xmark {
   font-weight: 700;
 }
 .p-3{
-  padding: 20px;
+  padding: 5px;
 }
 .my-4{
   margin: 20px 0;
+}
+h1{
+  font-size: 40px;
+}
+h5{
+  font-size: 20px;
 }
